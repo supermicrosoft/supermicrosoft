@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">  #중앙
+<div align="center">
   
 <a href="https://github.com/supermicrosoft" target="_blank"><img src="https://img.shields.io/badge/Love-EA4AAA?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/></a>
 
