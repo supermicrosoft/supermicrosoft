@@ -15,11 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+<div align="center">  #중앙
+  
 <a href="https://github.com/supermicrosoft" target="_blank"><img src="https://img.shields.io/badge/Love-EA4AAA?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supermicrosoft&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supermicrosoft&layout=compact&theme=transparent)
+
+</div>
+
+
+
 
 
 <!--
