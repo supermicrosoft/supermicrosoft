@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/supermicrosoft" target="_blank"><img src="https://img.shields.io/badge/LOVE-EA4AAA?style=뱃지모양&logo=LOVE&logoColor=white"/></a>
+<a href="https://github.com/supermicrosoft" target="_blank"><img src="https://img.shields.io/badge/GitHub Sponsors-EA4AAA?style=뱃지모양&logo=LOVE&logoColor=white"/></a>
